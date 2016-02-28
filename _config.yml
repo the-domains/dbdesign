@@ -1,14 +1,26 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.8340931
 color:
   saturation: 0.9434429
-  lightness: 0.9923511
   brandStrength: 0.9877753
+  rhythmicContrast: 0.6050866
   brandColors:
     - '#010101'
     - '#F2F2F2'
     - '#655442'
     - '#CFCFCF'
     - '#898989'
-  rhythmicContrast: 0.6050866
+  lightness: 0.9923511
+layout_spectrum: 1
 name: 'dbdesign '
