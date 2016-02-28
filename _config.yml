@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.8340931
+color:
+  saturation: 0.9434429
+  lightness: 0.9923511
+  brandStrength: 0.9877753
+  brandColors:
+    - '#010101'
+    - '#F2F2F2'
+    - '#655442'
+    - '#CFCFCF'
+    - '#898989'
+  rhythmicContrast: 0.6050866
+name: 'dbdesign '
