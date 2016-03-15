@@ -1,41 +1,41 @@
-name: 'dbdesign '
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.8340931
+title: Concepts
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: Concepts
+    permalink:
+      path: '/:title/'
+color:
+  saturation: 0.9434429
+  brandStrength: 0.9877753
+  lightness: 0.9923511
+  brandColors:
+    - '#EBEBEB'
+    - '#777777'
+    - '#4B4B4B'
+    - '#065387'
+    - '#69B8E0'
+  rhythmicContrast: 0.6050866
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: 'dbdesign '
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#010101'
-    - '#F2F2F2'
-    - '#655442'
-    - '#CFCFCF'
-    - '#898989'
-  brandStrength: 0.9877753
-  lightness: 0.9923511
-  saturation: 0.9434429
-  rhythmicContrast: 0.6050866
-purpose: []
+typography_spectrum: 0.5626566
+layout_spectrum: 1
