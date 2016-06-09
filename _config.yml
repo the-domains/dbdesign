@@ -14,7 +14,7 @@ collections:
       number: 10
 color:
   saturation: 1
-  brandStrength: 0.7293233
+  brandStrength: 0.7800752
   lightness: 0.137218
   brandColors:
     - '#000000'
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: 'dbdesign '
+favicon: null
 opengraph:
   image: null
   type: null
