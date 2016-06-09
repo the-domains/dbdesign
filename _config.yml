@@ -13,16 +13,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.8477443
+  saturation: 1
   brandStrength: 0.3264411
-  lightness: 0.4335839
+  lightness: 0.5313283
   brandColors:
     - '#000000'
     - '#FFFFFF'
     - '#929292'
     - '#E1E1E1'
     - '#767676'
-  rhythmicContrast: 0.7656642
+  rhythmicContrast: 1
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: 'dbdesign '
 favicon: null
+name: 'dbdesign '
 opengraph:
   image: null
   type: null
