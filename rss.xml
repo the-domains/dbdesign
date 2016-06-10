@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Concepts]]></title>
         <description><![CDATA[Concepts]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dbdesign/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 10 Jun 2016 01:29:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 10 Jun 2016 01:29:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dbdesign/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>A new way of thinking, seeing and experiencing!</p>]]></description>
+            <link>https://thegrid.ai/dbdesign/a-new-way-of-thinking-seeing-and-experiencing/index.html</link>
+            <guid isPermaLink="false">994da577-7e63-448d-a830-6dc40a7f2815</guid>
+            <pubDate>Fri, 10 Jun 2016 01:28:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>It not a problem to not know. It is a problem to not know you don't know.</p>]]></description>
-            <link>undefinedit-not-a-problem-to-not-know-it-is-a-problem-to-not-know-yo/index.html</link>
+            <link>https://thegrid.ai/dbdesign/it-not-a-problem-to-not-know-it-is-a-problem-to-not-know-yo/index.html</link>
             <guid isPermaLink="false">be11d131-df42-4a1f-997b-4dbad122c811</guid>
             <pubDate>Fri, 10 Jun 2016 01:28:54 GMT</pubDate>
         </item>
