@@ -4,7 +4,7 @@
         <description><![CDATA[Concepts]]></description>
         <link>https://thegrid.ai/dbdesign/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 10 Jun 2016 01:29:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2016 16:27:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dbdesign/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/dbdesign/it-not-a-problem-to-not-know-it-is-a-problem-to-not-know-yo/index.html</link>
             <guid isPermaLink="false">be11d131-df42-4a1f-997b-4dbad122c811</guid>
             <pubDate>Fri, 10 Jun 2016 01:28:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thinking]]></title>
+            <description><![CDATA[<article><h1>Thinking</h1><p>Whatever you do</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/11e915f8eebc8810a8ebc5550814cbb3/croprotate.jpg?cropheight=2351&cropwidth=10800&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F95ce63c4-b9fc-46c6-82e3-c5270919d861.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/95ce63c4-b9fc-46c6-82e3-c5270919d861.jpg</link>
+            <guid isPermaLink="false">87709b2b-e8b2-45d0-99e8-9e9f98e2a1fa</guid>
+            <pubDate>Wed, 13 Jul 2016 16:27:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
