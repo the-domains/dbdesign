@@ -23,14 +23,14 @@ color:
     - '#E1E1E1'
     - '#767676'
   rhythmicContrast: 0.8671679
-cta:
-  bucket: null
-  version: null
-  domain: null
 analytics:
   twitter: null
   google: null
   facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 name: 'dbdesign '
 favicon: null
 opengraph:
@@ -38,4 +38,4 @@ opengraph:
   type: null
   appId: null
 typography_spectrum: 0.4918546
-layout_spectrum: 0.9016291
+layout_spectrum: 1
